@@ -8,6 +8,6 @@ Meu nome é Leonardo Batista de Miranda, sou estudante de Tecnologia da Informa�
 - 💻 Análise e Desenvolvimento de Sistemas</center>
 
 #### Você também pode me encontrar nas seguintes redes:
-[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardobm01@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardobm01@gmail.com)](mailto:leonardobm01@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardobm01/)](https://www.linkedin.com/in/leonardobm01/) 
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/leonardo-bm)](https://codepen.io/leonardo-bm)
