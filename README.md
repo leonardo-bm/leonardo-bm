@@ -2,7 +2,7 @@
 
 ### Bem-vindo ao meu perfil! ✌🏽
 
-Meu nome é Leonardo Batista de Miranda, sou estudante de Tecnologia da Informação e costumo usar os sites listados abaixo como portfólio para guardar projetos pessoais e códigos aprendidos na internet. Fique à vontade para observá-los ou contribuir no aperfeiçoamento dos mesmos! 
+Meu nome é Leonardo Batista de Miranda, sou da área de Tecnologia da Informação e costumo usar os sites listados abaixo como portfólio para guardar projetos pessoais e códigos aprendidos na internet. Fique à vontade para observá-los ou contribuir no aperfeiçoamento dos mesmos! 
 
 - 📍 Brasília
 - 💻 Análise e Desenvolvimento de Sistemas</center>
