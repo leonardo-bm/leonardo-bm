@@ -1,10 +1,10 @@
-### Olá, me chamo Leonardo! 🧑🏽‍💻
+### Hi, I'm Leonardo Miranda! 🧑🏽‍💻
 <hr><img align="right" width="150" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif"/>
 <div style="display: inline_block"><br>
-💻 - Desenvolvedor Back-end e Analista de Sistemas <br>
-🤝🏽 - Você pode entrar em contato comigo através do <a 
-href="https://www.linkedin.com/in/leonardobm01/">LinkedIn</a> ou <a href="mailto:leonardobm01@gmail.com">e-mail</a>.<br>
-🤖 - Fique a vontade para revisar ou contribuir nos meus repositórios!
+💻 - Python Developer and Data Analyst <br>
+🤝🏽 - You can contact me on <a 
+href="https://www.linkedin.com/in/leonardobm01/">LinkedIn</a> or <a href="mailto:leonardobm01@gmail.com">e-mail</a>.<br>
+🤖 - Feel free to review or contribute to the repos!
 </div>
 
 <div align="center" valign="top">
@@ -24,6 +24,6 @@ href="https://www.linkedin.com/in/leonardobm01/">LinkedIn</a> ou <a href="mailto
 
 <div align="center">
  <a href="https://github.com/leonardo-bm">
- <img height="132em" src="https://github-readme-stats.vercel.app/api?username=leonardo-bm&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true&locale=pt-br&hide=stars,issues"/>
- <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-bm&theme=github_dark&hide_border=false&locale=pt-br&layout=compact"/>
+ <img height="132em" src="https://github-readme-stats.vercel.app/api?username=leonardo-bm&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true&hide=stars,issues"/>
+ <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-bm&theme=github_dark&hide_border=false&layout=compact"/>
 </div>
