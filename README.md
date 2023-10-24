@@ -3,7 +3,7 @@
 <div style="display: inline_block"><br>
 💻 - Desenvolvedor e Analista de Dados <br>
 🤝🏽 - Entre em contato através do <a 
-href="https://www.linkedin.com/in/leonardobm01/">LinkedIn</a> ou <a href="mailto:leonardobm01@gmail.com">e-mail (leonardobm01@gmail.com )</a>.<br>
+href="https://www.linkedin.com/in/leonardobm01/">LinkedIn</a> ou <a href="mailto:leonardobm01@gmail.com">e-mail</a> (leonardobm01@gmail.com).<br>
 🤖 - Sinta-se a vontade para analisar e contribuir para meus repositórios!
 </div>
 
