@@ -1,10 +1,10 @@
-### Hi, I'm Leonardo Miranda! 🧑🏽‍💻
+### Olá, me chamo Leonardo Miranda! 🧑🏽‍💻
 <hr><img align="right" width="150" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif"/>
 <div style="display: inline_block"><br>
-💻 - Python Developer and Data Analyst <br>
-🤝🏽 - You can contact me on <a 
-href="https://www.linkedin.com/in/leonardobm01/">LinkedIn</a> or <a href="mailto:leonardobm01@gmail.com">e-mail</a>.<br>
-🤖 - Feel free to review or contribute to the repos!
+💻 - Desenvolvedor e Analista de Dados <br>
+🤝🏽 - Entre em contato através do <a 
+href="https://www.linkedin.com/in/leonardobm01/">LinkedIn</a> ou <a href="mailto:leonardobm01@gmail.com">e-mail</a>.<br>
+🤖 - Sinta-se a vontade para analisar e contribuir para meus repositórios!
 </div>
 
 <div align="center" valign="top">
